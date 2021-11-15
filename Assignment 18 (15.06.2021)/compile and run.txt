@@ -1,0 +1,12 @@
+first a foll open cmd and compile MyClient.java file
+example:	javac MyClient.java
+then open another cmd and compile MyServer.java file
+example:	javac MyServer.java
+run: java MyServer
+
+then click previous MyClient cmd window and run
+example:
+run:	java MyClient
+
+then output will be show  MyServer cmd window.
+this is the output.

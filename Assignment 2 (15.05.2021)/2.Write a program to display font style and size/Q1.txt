@@ -1,0 +1,2 @@
+2.Write a program to display font style and size.
+

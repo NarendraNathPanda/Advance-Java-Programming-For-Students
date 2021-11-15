@@ -1,0 +1,9 @@
+at first open the file directory in "JLabelDemo.java" 
+then type address bar in cmd and enter
+then compile JLabelDemo.java file 
+as like 
+Javac JLabelDemo.java 
+then run JLabelDemo.html file
+example: appletviewer JLabelDemo.html
+
+that it .

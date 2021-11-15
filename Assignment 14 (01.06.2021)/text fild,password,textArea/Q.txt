@@ -1,0 +1,1 @@
+1. W.A.P to create one text field ond password field and text area and display your selectted field and password field.

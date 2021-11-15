@@ -1,0 +1,12 @@
+first a foll open cmd and compile DSender.java file in new CMD window
+example:	javac DSender.java
+then open another cmd and compile MyServer.java file
+example:	javac DReceiver.java
+run: java DReceiver.java
+
+then click previous MyClient cmd window and run
+example:
+run:	DReceiver.java
+
+then output will be show  DReceiver.java cmd window.
+this is the output.

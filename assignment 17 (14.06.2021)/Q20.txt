@@ -1,0 +1,1 @@
+Q20.Writer a program to display date of url creation, content type, expiration date, last modification date and content length of any URL

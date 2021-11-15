@@ -1,0 +1,1 @@
+Q1. Write a program to create 3 Checkboxes with your favourite Subjects c,c++ and Java. Display all the status of those checkboxes as True if selected otherwise false in AWT.

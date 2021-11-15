@@ -1,0 +1,1 @@
+Q.1.Wap to create a ......  with 3 options panel city colour and flavor when you click on city it will display 4city in button color in check box and flavor in combo box

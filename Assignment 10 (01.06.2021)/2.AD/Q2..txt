@@ -1,0 +1,3 @@
+Q2. Write a program to creat a boarder layout with your name inside label in a south deriation ,your depart ment as a button and the south deriction then provide your age in a label east corner, create a text fild at the west part of that boarder and the meddil address in atext erea.
+
+Q2.Writer a program to create a border layout with your name inside label in a north direction, your department as a button in South, age in label East , create a text file at west , middle provide your address in text area.

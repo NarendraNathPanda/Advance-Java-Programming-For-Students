@@ -1,0 +1,1 @@
+Q2. Write a program to create one text field and one password field with character (@) display text field value, selected value and password value in AWT.

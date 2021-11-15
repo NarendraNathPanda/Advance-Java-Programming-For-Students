@@ -1,0 +1,1 @@
+Write a program to give an example of tcp ip clint and server socket.

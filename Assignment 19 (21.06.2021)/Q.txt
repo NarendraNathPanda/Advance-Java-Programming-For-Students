@@ -1,0 +1,1 @@
+Q1.Write a program to transfer "welcome java" string using datagram packets and display that string Using datagram socket.
